@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 2
+date: 2017-08-17
+img: tpin.png
+alt: T-Pin
+project-date: August 2017
+client: Personal
+category: App Development
+description: T-Pin (not complete as of now) is an app that enables you to keep track of people who log into your phone behind your back. It enables you to store different passcode's for different people. By giving T-Pin camera access, T-Pin identifies the person opening the phone and logs it. You can even control the apps that the person who unlocks your phone can see. An essential app right?
+
+---

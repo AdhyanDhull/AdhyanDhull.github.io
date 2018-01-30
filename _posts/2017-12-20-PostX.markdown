@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 5
+date: 2017-12-20
+img: postx.png
+alt: PostX
+project-date: Dec 2017
+client: Practikality
+category: App Development
+description: PostX is the latest development by Practikality Inc. It is a novel post generator and works simply by taking in the general requirements for your post and generating an aesthetically provoking text post which you can share with all your friends and family.
+
+---

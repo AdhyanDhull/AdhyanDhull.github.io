@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 3
+date: 2017-10-15
+img: blinkey.png
+alt: BLinkey
+project-date: October 2017
+client: Personal
+category: App Development
+description: Operated entirely with one button and a few voice commands, Blinkey enables you to store your school educational notes in it and listening to them later so that you can revise your syllabus easily on the go. It also has an OCR recognition, which enables the visually impaired to read printed material and therefore, the app increases the visually impaired section's access to information.
+
+---
