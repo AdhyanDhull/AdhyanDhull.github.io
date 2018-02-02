@@ -3,4 +3,9 @@ adhyandhull.github.io  <br>
 [![Gitter](https://img.shields.io/gitter/room/nwjs/nw.js.svg)](https://gitter.im/adhyandhull)
 =========================
 
-View the webiste in action [here](https://adhyandhull.github.io/)
+View the webiste in action at [adhyandhull.me](https://adhyandhull.github.io/)
+
+
+### Theme Used
+[Freelancer](http://startbootstrap.com/template-overviews/freelancer/) theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/).
+
