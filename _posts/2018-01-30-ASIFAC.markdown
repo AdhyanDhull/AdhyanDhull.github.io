@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 2
+date: 2018-01-30
+img: asifac.png
+alt: ASIFAC
+project-date: Januray 2018
+client: Google Web Rangers
+category: Coming Soon
+description: ASIFAC expands to A Safer Internet for All Campaign. It is a website which aims at providing simple safety tips when online. It will also provide a platform to fight with the bullying and online harrasment. It is an iniatiative for the Google Web Rangers program. It is currently under heavy development and will be online soon!
+
+---

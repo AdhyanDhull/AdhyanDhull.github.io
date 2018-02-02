@@ -1,6 +1,6 @@
 # Site settings
 title: Adhyan Dhull
-email: jb.padamchopra@gmail.com
+email: dhulladhyan2001@gmail.com
 url: https://adhyandhull.me
 description: "Blogger. Tech Enthusiast. Open Source lover."
 keywords: "adhyan dhull, blogger, github page, web-page, jekyll, chiral asymmetry"
@@ -35,7 +35,7 @@ footer:
   copyright: Adhyan Dhull
   location: Currently
   social: Around the Web
-  credits: Help?
+  credits: Want to help?
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
@@ -52,7 +52,7 @@ address:
   - line: at DPS Sonepat
 
 # Credits content
-credits: 'Ping me in case you like my work and want some help.'
+credits: 'Ping me in case you would like to work with me or contribute to any of my projects.'
 
 # Build settings
 markdown: kramdown
